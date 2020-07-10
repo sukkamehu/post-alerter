@@ -1,0 +1,9 @@
+C:\dev\HttpListenerServer\HttpListenerServer\bin\Release\HttpListenerServer.exe.config
+C:\dev\HttpListenerServer\HttpListenerServer\bin\Release\HttpListenerServer.exe
+C:\dev\HttpListenerServer\HttpListenerServer\bin\Release\HttpListenerServer.pdb
+C:\dev\HttpListenerServer\HttpListenerServer\obj\Release\HttpListenerServer.Form1.resources
+C:\dev\HttpListenerServer\HttpListenerServer\obj\Release\HttpListenerServer.Properties.Resources.resources
+C:\dev\HttpListenerServer\HttpListenerServer\obj\Release\HttpListenerServer.csproj.GenerateResource.cache
+C:\dev\HttpListenerServer\HttpListenerServer\obj\Release\HttpListenerServer.csproj.CoreCompileInputs.cache
+C:\dev\HttpListenerServer\HttpListenerServer\obj\Release\HttpListenerServer.exe
+C:\dev\HttpListenerServer\HttpListenerServer\obj\Release\HttpListenerServer.pdb
